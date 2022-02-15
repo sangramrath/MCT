@@ -26,3 +26,6 @@ az account set --subscription <subscription id>
   * https://channel9.msdn.com/Shows/Azure-Friday
   * https://azure.microsoft.com/en-us/blog/
   * https://docs.microsoft.com/en-us/azure/
+
+* ARM Templates (SAP)
+  https://github.com/Azure/azure-quickstart-templates/tree/master/application-workloads/sap
