@@ -29,3 +29,6 @@ az account set --subscription <subscription id>
 
 * ARM Templates (SAP)
   https://github.com/Azure/azure-quickstart-templates/tree/master/application-workloads/sap
+
+  ## Exam Skills & Preparation
+  * https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
