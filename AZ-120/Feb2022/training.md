@@ -5,7 +5,7 @@ Pre-requisites (Increase CPU Quota for Subscription):
   Increase CPU Quota for Training AZ-120
   Quota type : Compute VM
 
-# For Multiple Subscriptions set default subscription
+## For Multiple Subscriptions set default subscription
 * Set Azure Suscription (Cloud Shell Bash)
   az account set --subscription <subscription id>
 * PowerShell
