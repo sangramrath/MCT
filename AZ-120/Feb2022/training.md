@@ -15,6 +15,7 @@ Set Azure Suscription (Cloud Shell Bash)
 az account set --subscription <subscription id>
   
 ## Preparation Links / Additional Reading Materials
+* Common Links
   * Learning Path: https://docs.microsoft.com/en-us/learn/certifications/courses/az-120t00?wt.mc_id=esi_m2l_content_wwl
   * https://docs.microsoft.com/azure/virtual-machines/workloads/sap/get-started
   * https://azure.microsoft.com/en-us/solutions/sap/
@@ -30,5 +31,14 @@ az account set --subscription <subscription id>
 * ARM Templates (SAP)
   https://github.com/Azure/azure-quickstart-templates/tree/master/application-workloads/sap
 
-  ## Exam Skills & Preparation
+* Diagramming Tools (Online)
+  draw.io
+  lucidchart.net
+  
+* Other Links
+  * SAP S/4HANA in Linux on Azure - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/sap/sap-s4hana
+  * Azure Architecture Center - https://docs.microsoft.com/en-us/azure/architecture/browse/
+
+## MSLEARN
   * https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
+
