@@ -1,18 +1,15 @@
 
 
-Pre-requisites:
+Pre-requisites (Increase CPU Quota for Subscription):
+  New Request Increase Support
+  Increase CPU Quota for Training AZ-120
+  Quota type : Compute VM
 
-New Request Increase Support
-
-Increase CPU Quota for Training AZ-120
-Quota type : Compute VM
-
-
-MSLEARN
-https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKCsk#msdynttrid=sy7jE29tIRnbnjm3-lDfY1U2GniJWVsv0cT9ufuYkF4
-
-Set Azure Suscription (Cloud Shell Bash)
-az account set --subscription <subscription id>
+# For Multiple Subscriptions set default subscription
+* Set Azure Suscription (Cloud Shell Bash)
+  az account set --subscription <subscription id>
+* PowerShell
+  Set-AzContext -Subscription <subscription id>
   
 ## Preparation Links / Additional Reading Materials
 * Common Links
